@@ -5,6 +5,22 @@
 </head>
 <body>
 <script type="text/javascript" src="https://chhopskytv.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-dtzt95/b/3/c95134bc67d3a521bb3f4331beb9b804/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?jsI18nTransformer=migrated&locale=en-US&collectorId=293f71cf"></script>
-hey click up there to report a bug ^^
+
+<script type="text/javascript">window.ATL_JQ_PAGE_PROPS =  {
+        "triggerFunction": function(showCollectorDialog) {
+               //Requries that jQuery is available! 
+               jQuery("#UseCaseButton").click(function(e) {
+                       e.preventDefault();
+                       showCollectorDialog();
+               });
+        },
+		fieldValues: {
+ 		summary : 'Issue-Title',
+		description : 'Issue-Description',
+	}					
+};</script>
+ 
+<input type="button" id="UseCaseButton" class="aui-button aui-button-primary" value="Create a UseCase!" />
+  hey click up there to report a bug ^^
 </body>
 </html>
