@@ -39,10 +39,10 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="intro.html">Intro</a></li>
 <li class="toctree-l1"><a class="reference internal" href="quickstart.html">Quickstart Guide</a></li>
-<li class="toctree-l1"><a class="reference internal" href="components.html">Components</a></li>
+<li class="toctree-l1"><a class="reference internal" href="components.html">App Components</a></li>
 <li class="toctree-l1"><a class="reference internal" href="integrations.html">Integrations</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Patch Notes</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#v0-3-alpha-target-29-01-2022">v0.3-alpha: Target 29/01/2022</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#v0-3-alpha-27-01-2022">v0.3-alpha: 27/01/2022</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#features">Features</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#bug-fixes">Bug Fixes</a></li>
 </ul>
@@ -87,23 +87,31 @@
              
   <section id="patch-notes">
 <h1>Patch Notes<a class="headerlink" href="#patch-notes" title="Permalink to this headline"></a></h1>
-<section id="v0-3-alpha-target-29-01-2022">
-<h2>v0.3-alpha: Target 29/01/2022<a class="headerlink" href="#v0-3-alpha-target-29-01-2022" title="Permalink to this headline"></a></h2>
+<section id="v0-3-alpha-27-01-2022">
+<h2>v0.3-alpha: 27/01/2022<a class="headerlink" href="#v0-3-alpha-27-01-2022" title="Permalink to this headline"></a></h2>
 <section id="features">
 <h3>Features<a class="headerlink" href="#features" title="Permalink to this headline"></a></h3>
-<ul class="simple">
-<li><p>Added support for loading and updating from challonge.com round robin &amp; community tournaments.</p></li>
-<li><p>Added additional outputs.</p></li>
-</ul>
+<p>Added:
+* Support for loading and updating from challonge.com round robin &amp; community tournaments.
+* Support for team logos and hero images.
+* Configurable points per win, loss, and ties.
+* Many new additional output files, for faster low-effort setup.
+* Warning when importing from Challonge that incomplete Best-of matches are not populated.
+* Warning/error messages when you try to do something you shouldn’t.</p>
 </section>
 <section id="bug-fixes">
 <h3>Bug Fixes<a class="headerlink" href="#bug-fixes" title="Permalink to this headline"></a></h3>
 <ul class="simple">
-<li><p>Fixed a bug where attempting to load a draft tournament preview would cause a crash.</p></li>
-<li><p>Fixed a bug where progressing a match added from the UI would cause a crash.</p></li>
-<li><p>Fixed a bug where side swap would reset on next win.</p></li>
-<li><p>Fixed a bug where editing a team would not be reflected on the match screen.</p></li>
-<li><p>Assorted UI bug fixes.</p></li>
+<li><p>Fixed a bug where editing a team wouldn’t be reflected in the match UI.</p></li>
+<li><p>Fixed a bug where editing a team didn’t update the win/swap UI.</p></li>
+<li><p>Fixed a bug where an error was shown trying to load the default tournament on first run.</p></li>
+<li><p>Fixed a bug where BO2s from Challonge could cause the match history to progress incorrectly.</p></li>
+<li><p>Fixed a bug where registering a win would reset Red/Blue swap state.</p></li>
+<li><p>Fixed a bug where deleting a match that had already occurred could cause a crash if the tournament had progressed to the last match.</p></li>
+<li><p>Fixed a bug where deleting a team that still had matches scheduled could cause a crash.</p></li>
+<li><p>Fixed a bug where moving a match that was in progress or completed could cause a crash.</p></li>
+<li><p>Fixed a bug where attempting to load a draft tournament preview could cause a crash.</p></li>
+<li><p>Fixed a bug where progressing a match added from the UI could cause a crash.</p></li>
 </ul>
 </section>
 </section>
@@ -112,7 +120,7 @@
 <section id="id1">
 <h3>Features<a class="headerlink" href="#id1" title="Permalink to this headline"></a></h3>
 <ul class="simple">
-<li><p>Added support for loading and updating from challonge.com playoff bracket tournaments.</p></li>
+<li><p>Added support for loading and updating from challonge.com tournaments.</p></li>
 <li><p>Added win-count standings.</p></li>
 <li><p>Added invisible “TBD” team to support matches scheduled with unfinalized participants.</p></li>
 <li><p>Added additional output text files.</p></li>
