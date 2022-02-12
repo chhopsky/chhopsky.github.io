@@ -1,73 +1,81 @@
 
+
+#################
 Release Downloads
-=================
+#################
 
-Public releases have been tested and approved for release. Development builds are the latest check-ins from our development branch; use at your own risk.
+**Stable releases** have been tested and approved for public use. 
 
-Public Releases
------------------
-**v0.3-alpha**
+**Development builds** are the latest check-ins from our development branch; use at your own risk.
 
-- `udts-v0.3-alpha.zip <https://github.com/chhopsky/updatethestream/releases/download/v0.3-alpha/udts-v0.3-alpha.zip>`_
-
-
-**v0.2-alpha**
-
-- `udts-v0.2.1-alpha.zip <https://github.com/chhopsky/updatethestream/releases/download/v0.2-alpha/udts-v0.2.1-alpha.zip>`_
+***************
+Stable Releases
+***************
+v0.3-alpha
+==========
+`udts-v0.3-alpha.zip <https://github.com/chhopsky/updatethestream/releases/download/v0.3-alpha/udts-v0.3-alpha.zip>`_
 
 
-**v0.1.1-alpha**
+v0.2-alpha
+==========
+`udts-v0.2.1-alpha.zip <https://github.com/chhopsky/updatethestream/releases/download/v0.2-alpha/udts-v0.2.1-alpha.zip>`_
 
-- `udts-v0.1.1-alpha.zip <https://github.com/chhopsky/updatethestream/releases/download/v0.1.1-alpha/udts-v0.1.1-alpha.zip>`_
+
+v0.1.1-alpha
+==========
+`udts-v0.1.1-alpha.zip <https://github.com/chhopsky/updatethestream/releases/download/v0.1.1-alpha/udts-v0.1.1-alpha.zip>`_
 
 
 
+*************************************
 Development Builds (unstable/testing)
--------------------------------------
+*************************************
 
-**2022-02-12**
+2022-02-12
+==========
 
-*e8eb1e3*
+e8eb1e3
+-------
+* Windows: `udts-20220212-e8eb1e3-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220212-e8eb1e3-windows-latest.zip>`_ 
+* Macos: `udts-20220212-e8eb1e3-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220212-e8eb1e3-macos-latest.zip>`_ 
 
-- Windows: `udts-20220212-e8eb1e3-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220212-e8eb1e3-windows-latest.zip>`_ 
-- Macos: `udts-20220212-e8eb1e3-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220212-e8eb1e3-macos-latest.zip>`_ 
+df24bab
+-------
+* Windows: `udts-20220212-df24bab-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220212-df24bab-windows-latest.zip>`_ 
+* Macos: `udts-20220212-df24bab-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220212-df24bab-macos-latest.zip>`_ 
 
-*df24bab*
+bfbb8c1
+-------
+* Windows: `udts-20220212-bfbb8c1-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220212-bfbb8c1-windows-latest.zip>`_ 
+* Macos: `udts-20220212-bfbb8c1-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220212-bfbb8c1-macos-latest.zip>`_ 
 
-- Windows: `udts-20220212-df24bab-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220212-df24bab-windows-latest.zip>`_ 
-- Macos: `udts-20220212-df24bab-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220212-df24bab-macos-latest.zip>`_ 
+a90ee27
+-------
+* Macos: `udts-20220212-a90ee27-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220212-a90ee27-macos-latest.zip>`_ 
 
-*bfbb8c1*
+8c5c1c4
+-------
+* Windows: `udts-20220212-8c5c1c4-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220212-8c5c1c4-windows-latest.zip>`_ 
+* Macos: `udts-20220212-8c5c1c4-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220212-8c5c1c4-macos-latest.zip>`_ 
 
-- Windows: `udts-20220212-bfbb8c1-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220212-bfbb8c1-windows-latest.zip>`_ 
-- Macos: `udts-20220212-bfbb8c1-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220212-bfbb8c1-macos-latest.zip>`_ 
+4fdda9a
+-------
+* Windows: `udts-20220212-4fdda9a-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220212-4fdda9a-windows-latest.zip>`_ 
+* Macos: `udts-20220212-4fdda9a-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220212-4fdda9a-macos-latest.zip>`_ 
 
-*a90ee27*
+17d2684
+-------
+* Windows: `udts-20220212-17d2684-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220212-17d2684-windows-latest.zip>`_ 
 
-- Macos: `udts-20220212-a90ee27-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220212-a90ee27-macos-latest.zip>`_ 
+0d6cd1c
+-------
+* Windows: `udts-20220212-0d6cd1c-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220212-0d6cd1c-windows-latest.zip>`_ 
+* Macos: `udts-20220212-0d6cd1c-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220212-0d6cd1c-macos-latest.zip>`_ 
 
-*8c5c1c4*
+2022-02-05
+==========
 
-- Windows: `udts-20220212-8c5c1c4-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220212-8c5c1c4-windows-latest.zip>`_ 
-- Macos: `udts-20220212-8c5c1c4-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220212-8c5c1c4-macos-latest.zip>`_ 
-
-*4fdda9a*
-
-- Windows: `udts-20220212-4fdda9a-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220212-4fdda9a-windows-latest.zip>`_ 
-- Macos: `udts-20220212-4fdda9a-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220212-4fdda9a-macos-latest.zip>`_ 
-
-*17d2684*
-
-- Windows: `udts-20220212-17d2684-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220212-17d2684-windows-latest.zip>`_ 
-
-*0d6cd1c*
-
-- Windows: `udts-20220212-0d6cd1c-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220212-0d6cd1c-windows-latest.zip>`_ 
-- Macos: `udts-20220212-0d6cd1c-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220212-0d6cd1c-macos-latest.zip>`_ 
-
-**2022-02-05**
-
-*4b8ba16*
-
-- Windows: `udts-20220205-4b8ba16-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220205-4b8ba16-windows-latest.zip>`_ 
-- Macos: `udts-20220205-4b8ba16-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220205-4b8ba16-macos-latest.zip>`_ 
+4b8ba16
+-------
+* Windows: `udts-20220205-4b8ba16-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220205-4b8ba16-windows-latest.zip>`_ 
+* Macos: `udts-20220205-4b8ba16-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220205-4b8ba16-macos-latest.zip>`_ 
