@@ -34,36 +34,21 @@ Development Builds (unstable/testing)
 2022-02-13
 ==========
 
-192941
--------
+19:29
+-----
 * Windows: `udts-20220213-192941-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220213-192941-windows-latest.zip>`_ 
 
-190550
--------
+19:05
+-----
 * Windows: `udts-20220213-190550-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220213-190550-windows-latest.zip>`_ 
 * Macos: `udts-20220213-190550-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220213-190550-macos-latest.zip>`_ 
 
-185314
--------
+18:53
+-----
 * Windows: `udts-20220213-185314-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220213-185314-windows-latest.zip>`_ 
 * Macos: `udts-20220213-185314-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220213-185314-macos-latest.zip>`_ 
 
-181042
--------
+18:10
+-----
 * Windows: `udts-20220213-181042-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220213-181042-windows-latest.zip>`_ 
 * Macos: `udts-20220213-181042-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220213-181042-macos-latest.zip>`_ 
-
-2022-02-05
-==========
-
-4b8ba16
--------
-* Windows: `udts-20220205-4b8ba16-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220205-4b8ba16-windows-latest.zip>`_ 
-* Macos: `udts-20220205-4b8ba16-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220205-4b8ba16-macos-latest.zip>`_ 
-
---
-==========
-
-macos
--------
-* Latest.zip: `udts--macos-latest.zip <https://updatethestream.com/builds/development/udts--macos-latest.zip>`_ 
