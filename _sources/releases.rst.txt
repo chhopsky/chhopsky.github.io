@@ -22,7 +22,7 @@ v0.2-alpha
 
 
 v0.1.1-alpha
-==========
+============
 `udts-v0.1.1-alpha.zip <https://github.com/chhopsky/updatethestream/releases/download/v0.1.1-alpha/udts-v0.1.1-alpha.zip>`_
 
 
