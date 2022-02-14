@@ -30,11 +30,12 @@ v0.1.1-alpha
 *************************************
 Development Builds (unstable/testing)
 *************************************
+*All times are in UTC.*
 
 2022-02-13
 ==========
 
-21:25
------
+9:25 PM
+-------
 * Windows: `udts-20220213-212524-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220213-212524-windows-latest.zip>`_ 
 * Macos: `udts-20220213-212524-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220213-212524-macos-latest.zip>`_ 
