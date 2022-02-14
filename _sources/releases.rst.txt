@@ -32,6 +32,14 @@ Development Builds (unstable/testing)
 *************************************
 *All times are in UTC.*
 
+2022-02-14
+==========
+
+2:22 AM
+-------
+* Windows: `udts-20220214-022210-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220214-022210-windows-latest.zip>`_ 
+* Macos: `udts-20220214-022210-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220214-022210-macos-latest.zip>`_ 
+
 2022-02-13
 ==========
 
