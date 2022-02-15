@@ -32,33 +32,10 @@ Development Builds (unstable/testing)
 *************************************
 *All times are in UTC.*
 
-2022-02-14
+2022-02-15
 ==========
 
-6:35 AM
+5:33 AM
 -------
-* Windows: `udts-20220214-063555-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220214-063555-windows-latest.zip>`_ 
-* Macos: `udts-20220214-063555-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220214-063555-macos-latest.zip>`_ 
-
-3:51 AM
--------
-* Windows: `udts-20220214-035130-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220214-035130-windows-latest.zip>`_ 
-* Macos: `udts-20220214-035130-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220214-035130-macos-latest.zip>`_ 
-
-2:56 AM
--------
-* Windows: `udts-20220214-025638-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220214-025638-windows-latest.zip>`_ 
-* Macos: `udts-20220214-025638-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220214-025638-macos-latest.zip>`_ 
-
-2:22 AM
--------
-* Windows: `udts-20220214-022210-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220214-022210-windows-latest.zip>`_ 
-* Macos: `udts-20220214-022210-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220214-022210-macos-latest.zip>`_ 
-
-2022-02-13
-==========
-
-9:25 PM
--------
-* Windows: `udts-20220213-212524-windows-latest.zip <https://updatethestream.com/builds/development/udts-20220213-212524-windows-latest.zip>`_ 
-* Macos: `udts-20220213-212524-macos-latest.zip <https://updatethestream.com/builds/development/udts-20220213-212524-macos-latest.zip>`_ 
+* Windows: `udts-20220215-053335-windows-latest.zip <https://storage.googleapis.com/downloads.chhopsky.tv/updatethestream/development/udts-20220215-053335-windows-latest.zip>`_ 
+* Macos: `udts-20220215-053335-macos-latest.zip <https://storage.googleapis.com/downloads.chhopsky.tv/updatethestream/development/udts-20220215-053335-macos-latest.zip>`_ 
