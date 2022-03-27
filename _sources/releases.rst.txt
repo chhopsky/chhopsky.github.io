@@ -11,6 +11,10 @@ Release Downloads
 ***************
 Stable Releases
 ***************
+v0.4-alpha
+==========
+
+
 v0.3-alpha
 ==========
 `udts-v0.3-alpha.zip <https://github.com/chhopsky/updatethestream/releases/download/v0.3-alpha/udts-v0.3-alpha.zip>`_
@@ -34,6 +38,11 @@ Development Builds (unstable/testing)
 
 2022-03-27
 ==========
+
+3:27 AM
+-------
+* Windows: `udts-20220327-032723-windows-latest.zip <https://downloads.chhopsky.tv/updatethestream/development/udts-20220327-032723-windows-latest.zip>`_ 
+* Macos: `udts-20220327-032723-macos-latest.tgz <https://downloads.chhopsky.tv/updatethestream/development/udts-20220327-032723-macos-latest.tgz>`_ 
 
 3:07 AM
 -------
