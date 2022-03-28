@@ -13,6 +13,8 @@ Stable Releases
 ***************
 v0.4-alpha
 ==========
+`udts-v0.4-alpha-macos.tgz <https://github.com/chhopsky/updatethestream/releases/download/v0.4-alpha/udts-v0.4-alpha-macos.tgz>`_
+`udts-v0.4-alpha-windows.zip <https://github.com/chhopsky/updatethestream/releases/download/v0.4-alpha/udts-v0.4-alpha-windows.zip>`_
 
 
 v0.3-alpha
