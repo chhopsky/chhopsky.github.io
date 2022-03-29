@@ -38,6 +38,18 @@ Development Builds (unstable/testing)
 *************************************
 *All times are in UTC.*
 
+2022-03-29
+==========
+
+7:40 AM
+-------
+* Windows: `udts-20220329-074029-windows-latest.zip <https://downloads.chhopsky.tv/updatethestream/development/udts-20220329-074029-windows-latest.zip>`_ 
+* Macos: `udts-20220329-074029-macos-latest.tgz <https://downloads.chhopsky.tv/updatethestream/development/udts-20220329-074029-macos-latest.tgz>`_ 
+
+7:20 AM
+-------
+* Windows: `udts-20220329-072000-windows-latest.zip <https://downloads.chhopsky.tv/updatethestream/development/udts-20220329-072000-windows-latest.zip>`_ 
+
 2022-03-27
 ==========
 
