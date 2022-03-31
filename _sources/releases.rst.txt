@@ -38,6 +38,41 @@ Development Builds (unstable/testing)
 *************************************
 *All times are in UTC.*
 
+2022-03-31
+==========
+
+8:24 PM
+-------
+* Windows: `udts-20220331-202429-windows-latest.zip <https://downloads.chhopsky.tv/updatethestream/development/udts-20220331-202429-windows-latest.zip>`_ 
+* Macos: `udts-20220331-202429-macos-latest.tgz <https://downloads.chhopsky.tv/updatethestream/development/udts-20220331-202429-macos-latest.tgz>`_ 
+
+8:13 PM
+-------
+* Windows: `udts-20220331-201354-windows-latest.zip <https://downloads.chhopsky.tv/updatethestream/development/udts-20220331-201354-windows-latest.zip>`_ 
+
+7:39 PM
+-------
+* Windows: `udts-20220331-193919-windows-latest.zip <https://downloads.chhopsky.tv/updatethestream/development/udts-20220331-193919-windows-latest.zip>`_ 
+
+7:33 PM
+-------
+* Windows: `udts-20220331-193313-windows-latest.zip <https://downloads.chhopsky.tv/updatethestream/development/udts-20220331-193313-windows-latest.zip>`_ 
+
+6:06 PM
+-------
+* Windows: `udts-20220331-180624-windows-latest.zip <https://downloads.chhopsky.tv/updatethestream/development/udts-20220331-180624-windows-latest.zip>`_ 
+
+6:01 PM
+-------
+* Windows: `udts-20220331-180156-windows-latest.zip <https://downloads.chhopsky.tv/updatethestream/development/udts-20220331-180156-windows-latest.zip>`_ 
+
+2022-03-30
+==========
+
+7:32 AM
+-------
+* Windows: `udts-20220330-073237-windows-latest.zip <https://downloads.chhopsky.tv/updatethestream/development/udts-20220330-073237-windows-latest.zip>`_ 
+
 2022-03-29
 ==========
 
